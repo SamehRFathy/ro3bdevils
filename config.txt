@@ -1,0 +1,6 @@
+owner=430369343059263490
+prefix=*
+game=Devils Community
+stayinchannel=true
+songinstatus=false
+token=NTMyNDA4NzkzMzE3OTAwMzAy.DxcEOw.CPw3ClqN6STtAOtefUA3QqUd0Bk
