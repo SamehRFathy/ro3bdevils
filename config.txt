@@ -1,5 +1,5 @@
 owner=430369343059263490
-prefix=*
+prefix=(
 game=Devils Horror
 stayinchannel=true
 songinstatus=false
