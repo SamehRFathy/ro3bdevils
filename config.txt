@@ -1,6 +1,6 @@
 owner=430369343059263490
 prefix=*
-game=Devils Community
+game=Devils Horror
 stayinchannel=true
 songinstatus=false
-token=NTMyNDA4NzkzMzE3OTAwMzAy.DxcEOw.CPw3ClqN6STtAOtefUA3QqUd0Bk
+token=NTMyNDE5Mjg0NzA2NjU2MjY5.DxcN0Q.mQuytgU7JN3nvGoM7z4-QAfw44E
